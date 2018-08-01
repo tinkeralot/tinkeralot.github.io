@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1">
+    <input levelbias="0.400" height="5344" levelbiashidpi="0.400" levelingpitch="0" overlap="1" leveltileurl="tiles/DSC_0598/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="5344" leveltilesize="510">
+      <level height="5344" preload="0" predecode="0" width="5344"/>
+      <level height="2672" preload="0" predecode="0" width="2672"/>
+      <level height="1336" preload="0" predecode="0" width="1336"/>
+      <level height="668" preload="0" predecode="0" width="668"/>
+      <level height="334" preload="1" predecode="1" width="334"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="-180" fov="5" tilt="-31.392"/>
+      <max pan="180" fov="120" tilt="31.392"/>
+    </view>
+    <userdata longitude="" description="" title="" copyright="" author="" datetime="2015:09:21 13:29:24" tags="Bungalow 4" latitude="" comment="" source="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" background="1" height="20" borderradius="1" borderalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff" enabled="1" textalpha="1" backgroundalpha="1" border="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="28.5" id="Point01" description="" title="" target="" tilt="-6.43" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" softedge="0" enabled="0" zoomout="0" blendtime="1" zoomspeed="2" zoomoutpause="1" zoomfov="20" zoomin="0"/>
+    <control dblclickfullscreen="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" speedwheel="1" lockedwheel="0" contextfullscreen="0" lockedmouse="0" invertcontrol="1" simulatemass="1" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" height="5340" levelbiashidpi="0.400" levelingpitch="0" overlap="1" leveltileurl="tiles/View 4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="5340" leveltilesize="510">
+      <level height="5340" preload="0" predecode="0" width="5340"/>
+      <level height="2670" preload="0" predecode="0" width="2670"/>
+      <level height="1335" preload="0" predecode="0" width="1335"/>
+      <level height="667" preload="0" predecode="0" width="667"/>
+      <level height="333" preload="1" predecode="1" width="333"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="-180" fov="5" tilt="-19.3674"/>
+      <max pan="180" fov="120" tilt="19.3674"/>
+    </view>
+    <userdata longitude="" description="" title="" copyright="" author="" datetime="2015:09:21 15:39:26" tags="GM Bungalow" latitude="" comment="" source="" info=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label textcolor="0x000000" background="1" height="20" borderradius="1" borderalpha="1" wordwrap="1" width="180" backgroundcolor="0xffffff" enabled="1" textalpha="1" backgroundalpha="1" border="1" bordercolor="0x000000"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" type="crossdissolve" softedge="0" enabled="0" zoomout="0" blendtime="1" zoomspeed="2" zoomoutpause="1" zoomfov="20" zoomin="0"/>
+    <control dblclickfullscreen="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" speedwheel="1" lockedwheel="0" contextfullscreen="0" lockedmouse="0" invertcontrol="1" simulatemass="1" hideabout="0" lockedkeyboardzoom="0"/>
+  </panorama>
+</tour>
