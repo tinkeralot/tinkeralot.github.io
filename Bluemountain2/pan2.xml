@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="158.5" fov="59.95" tilt="0"/>
+      <min pan="-180" fov="5" tilt="-30.00529221852616"/>
+      <max pan="180" fov="120" tilt="30.00529221852616"/>
+    </view>
+    <userdata title="" datetime="2015:09:21 09:02:14" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Waterfall" target="" pan="-31.3243" skinid="" url="{node2}" id="Point01" tilt="6.906"/>
+      <hotspot title="View from here" target="" pan="155.061" skinid="" url="{node3}" id="Point02" tilt="-1.92449"/>
+    </hotspots>
+    <media>
+      <sound ambientlevel="0" pansize="0" mode="1" loop="1" field="90" pan="-1" tiltsize="0" id="_background" level="1" tilt="-1">
+        <source url="Waterfall.jpg"/>
+      </sound>
+    </media>
+    <input tile0url="images/Pan 2_o_0.jpg" tile5url="images/Pan 2_o_5.jpg" tilesize="4041" tile4url="images/Pan 2_o_4.jpg" tile3url="images/Pan 2_o_3.jpg" tilescale="1.002474634991339" tile2url="images/Pan 2_o_2.jpg" tile1url="images/Pan 2_o_1.jpg"/>
+    <altinput tile0url="images/Pan 2_o_800_0.jpg" screensize="1000" tile5url="images/Pan 2_o_800_5.jpg" tilesize="800" tile4url="images/Pan 2_o_800_4.jpg" tile3url="images/Pan 2_o_800_3.jpg" tilescale="1.002474634991339" tile2url="images/Pan 2_o_800_2.jpg" tile1url="images/Pan 2_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="10" fov="63.37" tilt="0"/>
+      <min pan="-23.5" fov="5" tilt="-31.6966901695134"/>
+      <max pan="23.5" fov="120" tilt="31.6966901695134"/>
+    </view>
+    <userdata title="" datetime="2015:09:21 12:22:48" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Back" target="" pan="1.25063" skinid="" url="{node1}" id="Back" tilt="0.113684"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Waterfall_o_0.jpg" tile5url="images/Waterfall_o_5.jpg" tilesize="4041" tile4url="images/Waterfall_o_4.jpg" tile3url="images/Waterfall_o_3.jpg" tilescale="1.002474634991339" tile2url="images/Waterfall_o_2.jpg" tile1url="images/Waterfall_o_1.jpg"/>
+    <altinput tile0url="images/Waterfall_o_800_0.jpg" screensize="1000" tile5url="images/Waterfall_o_800_5.jpg" tilesize="800" tile4url="images/Waterfall_o_800_4.jpg" tile3url="images/Waterfall_o_800_3.jpg" tilescale="1.002474634991339" tile2url="images/Waterfall_o_800_2.jpg" tile1url="images/Waterfall_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="-180" fov="5" tilt="-20.63055447142797"/>
+      <max pan="180" fov="120" tilt="20.63055447142797"/>
+    </view>
+    <userdata title="" datetime="2015:09:21 12:48:29" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="View from here" target="" pan="37.1229" skinid="" url="{node1}" id="Point01" tilt="2.88748"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Pan 1 offset_o_0.jpg" tile5url="images/Pan 1 offset_o_5.jpg" tilesize="4041" tile4url="images/Pan 1 offset_o_4.jpg" tile3url="images/Pan 1 offset_o_3.jpg" tilescale="1.002474634991339" tile2url="images/Pan 1 offset_o_2.jpg" tile1url="images/Pan 1 offset_o_1.jpg"/>
+    <altinput tile0url="images/Pan 1 offset_o_800_0.jpg" screensize="1000" tile5url="images/Pan 1 offset_o_800_5.jpg" tilesize="800" tile4url="images/Pan 1 offset_o_800_4.jpg" tile3url="images/Pan 1 offset_o_800_3.jpg" tilescale="1.002474634991339" tile2url="images/Pan 1 offset_o_800_2.jpg" tile1url="images/Pan 1 offset_o_800_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
